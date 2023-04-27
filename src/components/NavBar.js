@@ -6,7 +6,7 @@ function NavBar() {
   <NavLink exact to="/directors" activeClassName="active">Directors</NavLink>
   <NavLink exact to="/actors" activeClassName="active">Actors</NavLink>
   <NavLink exact to="/" activeClassName="active">Home</NavLink>
-  </div>;
+   </div>;
 }
 
 export default NavBar;
